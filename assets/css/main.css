@@ -1,15 +1,18 @@
-.my-container {
-    position: relative;
-    background: #5C97FF;
-    overflow: hidden;
+.navbar-brand{
+  margin-right: 1300px;
 }
-/* You could use :after - it doesn't really matter */
+.my-container{
+  padding-top: 1600px;
+  position: relative;
+  background: #fff;
+  overflow: hidden;
+}
 .my-container:before {
     content: ' ';
     display: block;
     position: absolute;
     left: 0;
-    top: 0;
+    top:0;
     width: 100%;
     height: 100%;
     z-index: 1;
@@ -22,4 +25,7 @@
     -moz-background-size: cover;
     -webkit-background-size: cover;
     background-size: cover;
+}
+.my-container h1 {
+    
 }
