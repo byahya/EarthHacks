@@ -1,0 +1,40 @@
+.overlay {
+  opacity: 0.4 !important;
+}
+
+.index-hero-container {
+  margin-top: 50px !important;
+}
+
+.index-hero-item {
+  padding: 0 50px;
+}
+
+.index-hero-item h2 {
+  font-size: 35px !important;
+}
+
+body {
+  background-image: url('../lib/home_video_pic.png') !important;
+}
+
+.second {
+  background-image: url('../lib/learn_more_pic.png') !important;
+}
+
+.third {
+  background-image: url('../lib/sponsors_pic.png') !important;
+}
+
+.index-icon {
+  height: 75px;
+  -webkit-filter: invert(100%);
+}
+
+.register-btn {
+  border-color: #fff;
+}
+
+.desc {
+  color: #fff !important;
+}
