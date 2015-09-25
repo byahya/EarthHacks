@@ -47,33 +47,41 @@
     $("#schedule").timeline({
         data: [
             {
-                time: new Date(2015, 4, 23, 9, 0, 0),
+                time: new Date(2015, 10, 30, 12, 0, 0),
                 css: 'success',
-                content: 'Check in opens at Packard Atrium.'
+                content: 'Registration begins at Packard Atrium'
             }, {
-                time: new Date(2015, 4, 23, 10, 0, 0),
+                time: new Date(2015, 10, 30, 4, 0, 0),
                 css: 'success',
-                content: 'Hacking begins.'
+                content: 'Arduino Workshop'
             }, {
-                time: new Date(2015, 4, 23, 12, 30, 0),
+                time: new Date(2015, 10, 30, 5, 0, 0),
                 css: 'success',
-                content: 'Lunch is served.'
+                content: 'Make-a-Thon Kick-off'
             }, {
-                time: new Date(2015, 4, 23, 13, 0, 0),
-                css: 'success',
-                content: 'Hacking continues.'
-            }, {
-                time: new Date(2015, 4, 23, 17, 30, 0),
+                time: new Date(2015, 10, 30, 7, 0, 0),
                 css: 'success',
                 content: 'Dinner is served.'
             }, {
-                time: new Date(2015, 4, 23, 22, 0, 0),
+                time: new Date(2015, 10, 31, 9, 0, 0),
+                css: 'success',
+                content: 'Breakfast is served.'
+            }, {
+                time: new Date(2015, 10, 31, 1, 0, 0),
+                css: 'success',
+                content: 'Lunch is served.'
+            }, {
+                time: new Date(2015, 10, 31, 4, 0, 0),
                 css: 'success',
                 content: 'Hacking ends.'
             }, {
-                time: new Date(2015, 4, 23, 22, 0, 0),
+                time: new Date(2015, 10, 31, 5, 0, 0),
                 css: 'success',
-                content: 'Presentations and Awards Ceremony.'
+                content: 'Judging begins.'
+            }, {
+                time: new Date(2015, 10, 31, 5, 30, 0),
+                css: 'success',
+                content: 'Awards and Closing Ceremony.'
             }
         ]
     });
