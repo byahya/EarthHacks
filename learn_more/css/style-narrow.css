@@ -1,0 +1,18 @@
+/*
+	Elevation by Pixelarity
+	pixelarity.com @pixelarity
+	License: pixelarity.com/license
+*/
+
+#count-down {
+  display: none;
+}
+
+#count-down ul {
+  display: none;
+}
+/* Basic */
+
+	body, input, select, textarea {
+		font-size: 11pt;
+	}
