@@ -53,7 +53,7 @@
   width: 15%;
 }
 #count-down div {
-  background: #89ce84;
+  background: #734F2F;
   width: 100%;
   -moz-border-radius: 3px;
   -webkit-border-radius: 3px;
@@ -101,7 +101,7 @@
   transition: all 1s ease-in-out;
 }
 #count-down div[data-interval-text="day"], #count-down div[data-interval-text="hr"], #count-down div[data-interval-text="min"], #count-down div[data-interval-text="sec"] {
-  background: #89ce84;
+  background: #734F2F;
   text-shadow: 0px 0px #56267a, 1px 1px #56267a, 2px 2px #56267a, 3px 3px #56267a, 4px 4px #56267a, 5px 5px #56267a, 6px 6px #56267a, 7px 7px #56267a, 8px 8px #56267a, 9px 9px #56267a, 10px 10px #56267a, 11px 11px #56267a, 12px 12px #56267a, 13px 13px #56267a, 14px 14px #56267a, 15px 15px #56267a, 16px 16px #56267a, 17px 17px #56267a, 18px 18px #56267a, 19px 19px #56267a, 20px 20px #56267a, 21px 21px #56267a, 22px 22px #56267a, 23px 23px #56267a, 24px 24px #56267a, 25px 25px #56267a, 26px 26px #56267a, 27px 27px #56267a, 28px 28px #56267a, 29px 29px #56267a, 30px 30px #56267a, 31px 31px #56267a, 32px 32px #56267a, 33px 33px #56267a, 34px 34px #56267a, 35px 35px #56267a, 36px 36px #56267a, 37px 37px #56267a, 38px 38px #56267a, 39px 39px #56267a, 40px 40px #56267a, 41px 41px #56267a, 42px 42px #56267a, 43px 43px #56267a, 44px 44px #56267a, 45px 45px #56267a, 46px 46px #56267a, 47px 47px #56267a, 48px 48px #56267a, 49px 49px #56267a, 50px 50px #56267a, 51px 51px #56267a, 52px 52px #56267a, 53px 53px #56267a, 54px 54px #56267a, 55px 55px #56267a, 56px 56px #56267a, 57px 57px #56267a, 58px 58px #56267a, 59px 59px #56267a, 60px 60px #56267a, 61px 61px #56267a, 62px 62px #56267a, 63px 63px #56267a, 64px 64px #56267a, 65px 65px #56267a, 66px 66px #56267a, 67px 67px #56267a, 68px 68px #56267a, 69px 69px #56267a, 70px 70px #56267a, 71px 71px #56267a, 72px 72px #56267a, 73px 73px #56267a, 74px 74px #56267a, 75px 75px #56267a, 76px 76px #56267a, 77px 77px #56267a, 78px 78px #56267a, 79px 79px #56267a, 80px 80px #56267a, 81px 81px #56267a, 82px 82px #56267a, 83px 83px #56267a, 84px 84px #56267a, 85px 85px #56267a, 86px 86px #56267a, 87px 87px #56267a, 88px 88px #56267a, 89px 89px #56267a, 90px 90px #56267a, 91px 91px #56267a, 92px 92px #56267a, 93px 93px #56267a, 94px 94px #56267a, 95px 95px #56267a, 96px 96px #56267a, 97px 97px #56267a, 98px 98px #56267a, 99px 99px #56267a, 100px 100px #56267a, 101px 101px #56267a, 102px 102px #56267a, 103px 103px #56267a, 104px 104px #56267a, 105px 105px #56267a, 106px 106px #56267a, 107px 107px #56267a, 108px 108px #56267a, 109px 109px #56267a, 110px 110px #56267a, 111px 111px #56267a, 112px 112px #56267a, 113px 113px #56267a, 114px 114px #56267a, 115px 115px #56267a, 116px 116px #56267a, 117px 117px #56267a, 118px 118px #56267a, 119px 119px #56267a, 120px 120px #56267a, 121px 121px #56267a, 122px 122px #56267a, 123px 123px #56267a, 124px 124px #56267a, 125px 125px #56267a, 126px 126px #56267a, 127px 127px #56267a, 128px 128px #56267a, 129px 129px #56267a, 130px 130px #56267a, 131px 131px #56267a, 132px 132px #56267a, 133px 133px #56267a, 134px 134px #56267a, 135px 135px #56267a, 136px 136px #56267a, 137px 137px #56267a, 138px 138px #56267a, 139px 139px #56267a, 140px 140px #56267a, 141px 141px #56267a, 142px 142px #56267a, 143px 143px #56267a, 144px 144px #56267a, 145px 145px #56267a, 146px 146px #56267a, 147px 147px #56267a, 148px 148px #56267a, 149px 149px #56267a, 150px 150px #56267a, 151px 151px #56267a, 152px 152px #56267a, 153px 153px #56267a, 154px 154px #56267a, 155px 155px #56267a, 156px 156px #56267a, 157px 157px #56267a, 158px 158px #56267a, 159px 159px #56267a, 160px 160px #56267a, 161px 161px #56267a, 162px 162px #56267a, 163px 163px #56267a, 164px 164px #56267a, 165px 165px #56267a, 166px 166px #56267a, 167px 167px #56267a, 168px 168px #56267a, 169px 169px #56267a, 170px 170px #56267a, 171px 171px #56267a, 172px 172px #56267a, 173px 173px #56267a, 174px 174px #56267a, 175px 175px #56267a, 176px 176px #56267a, 177px 177px #56267a, 178px 178px #56267a, 179px 179px #56267a, 180px 180px #56267a, 181px 181px #56267a, 182px 182px #56267a, 183px 183px #56267a, 184px 184px #56267a, 185px 185px #56267a, 186px 186px #56267a, 187px 187px #56267a, 188px 188px #56267a, 189px 189px #56267a, 190px 190px #56267a, 191px 191px #56267a, 192px 192px #56267a, 193px 193px #56267a, 194px 194px #56267a, 195px 195px #56267a, 196px 196px #56267a, 197px 197px #56267a, 198px 198px #56267a, 199px 199px #56267a, 200px 200px #56267a;
 }
 #count-down div[data-interval-text="day"]:after, #count-down div[data-interval-text="hr"]:after, #count-down div[data-interval-text="min"]:after, #count-down div[data-interval-text="sec"]:after {
@@ -135,12 +135,12 @@
 		-o-transition: color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out;
-		color: #89ce84;
+		color: #FFF;
 		text-decoration: underline;
 	}
 
 		a:hover {
-			color: #89ce84 !important;
+			color: #FFFFFF !important;
 			text-decoration: none;
 		}
 
@@ -378,8 +378,8 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #89ce84;
-			box-shadow: 0 0 0 1px #89ce84;
+			border-color: #734F2F;
+			box-shadow: 0 0 0 1px #734F2F;
 		}
 
 	.select-wrapper {
@@ -487,7 +487,7 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			box-shadow: 0 0 0 2px #89ce84;
+			box-shadow: 0 0 0 2px #734F2F;
 		}
 
 	input[type="radio"] + label:before {
@@ -524,6 +524,7 @@
 	.box {
 		background: #fff;
 		box-shadow: 0 2px 0 0 rgba(0, 0, 0, 0.1);
+		border-radius: 10px;
 		margin-bottom: 2em;
 		padding: 2.25em;
 	}
@@ -572,7 +573,7 @@
 			background-image: -o-linear-gradient(45deg, rgba(0,0,0,0.1) 50%, rgba(0,0,0,0) 0%);
 			background-image: -ms-linear-gradient(45deg, rgba(0,0,0,0.1) 50%, rgba(0,0,0,0) 0%);
 			background-image: linear-gradient(45deg, rgba(0,0,0,0.1) 50%, rgba(0,0,0,0) 0%);
-			background-color: #89ce84;
+			background-color: #734F2F;
 			border-radius: 100%;
 			color: #ffffff;
 			cursor: default;
@@ -922,7 +923,7 @@
 		-o-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		background-color: #89ce84;
+		background-color: #734F2F;
 		border: 0;
 		border-radius: 0;
 		color: #ffffff !important;
@@ -944,7 +945,7 @@
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		.button:hover {
-			background-color: #894242;
+			background-color: #808C56;
 			color: #ffffff !important;
 		}
 
@@ -1016,7 +1017,7 @@
 			input[type="reset"].alt:active,
 			input[type="button"].alt:active,
 			.button.alt:active {
-				background-color: #894242;
+				background-color: #808C56;
 			}
 
 			input[type="submit"].alt.icon:before,
@@ -1030,7 +1031,7 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #89ce84;
+			background-color: #734F2F;
 			color: #ffffff !important;
 		}
 
@@ -1038,14 +1039,14 @@
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
 			.button.special:hover {
-				background-color: #894242;
+				background-color: #808C56;
 			}
 
 			input[type="submit"].special:active,
 			input[type="reset"].special:active,
 			input[type="button"].special:active,
 			.button.special:active {
-				background-color: #894242;
+				background-color: #808C56;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -1073,7 +1074,7 @@
 		}
 
 		.wrapper.style2 {
-			background: #89ce84;
+			background: #734F2F;
 			color: #ffffff;
 		}
 
@@ -1090,14 +1091,14 @@
 			}
 
 			.wrapper.style2 .box {
-				background: #894242;
+				background: #808C56;
 			}
 
 			.wrapper.style2 input[type="submit"],
 			.wrapper.style2 input[type="reset"],
 			.wrapper.style2 input[type="button"],
 			.wrapper.style2 .button {
-				color: #89ce84 !important;
+				color: #734F2F !important;
 				background: #ffffff;
 			}
 
@@ -1314,7 +1315,7 @@ body.landing #skel-layers-wrapper {
 	padding: 0;
 }
 #banner p {
-	color: #89ce84;
+	color: #734F2F;
 	font-size: 2em;
 	margin-bottom: 1.75em;
 }
@@ -1324,7 +1325,7 @@ body.landing #skel-layers-wrapper {
  * Footer
  */
 #footer {
-	background: #ececec;
+	background: #734F2F;
 	color: #aaa;
 	padding: 4em 0 8em 0;
 	text-align: center;
